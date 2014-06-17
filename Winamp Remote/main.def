@@ -1,0 +1,4 @@
+LIBRARY	"Winamp Remote"
+
+EXPORTS
+	winampGetGeneralPurposePlugin
